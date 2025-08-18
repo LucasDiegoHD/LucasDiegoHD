@@ -34,7 +34,7 @@ Tecnologias: HTML, JavaScript, C#.
 Código de Controle de Robô (FTC/FGC)
 Repositório contendo o código-fonte dos robôs das competições, demonstrando a aplicação prática de máquinas de estado, rotinas autônomas e integração com visão computacional.
 
-Tecnologias: Java, C++.
+Tecnologias: Java.
 
 (https://github.com/TechMaker-FTC23/FTC_2026)
 
