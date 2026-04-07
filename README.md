@@ -45,10 +45,10 @@ Repositório oficial com o "cérebro" do robô desenvolvido para a etapa Regiona
 
 ---
 
-## 🔥 Consistência no Código
+## 🏆 Troféus do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDiegoHD&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasDiegoHD&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
