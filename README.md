@@ -1,8 +1,12 @@
 # Olá, eu sou o Lukinhas! 👋
 
-### 🔧 Técnico em Mecatrônica pelo IFC | Desenvolvedor de Robótica | FGC & FTC
+<h3 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&width=500&lines=Técnico+em+Mecatrônica+pelo+IFC;Desenvolvedor+de+Robótica;FGC+%26+FTC+Programmer" alt="Typing SVG" />
+  </a>
+</h3>
 
-Sou **Técnico em Mecatrônica pelo Instituto Federal Catarinense (IFC)** e apaixonado por criar a ponte entre o hardware e o software. Minha trajetória é focada no desenvolvimento de sistemas de controle para robôs de alta performance nos ecossistemas **FIRST Global Challenge (FGC)** e **FIRST Tech Challenge (FTC)**.
+Sou apaixonado por criar a ponte entre o hardware e o software. Minha trajetória é focada no desenvolvimento de sistemas de controle para robôs de alta performance nos ecossistemas **FIRST Global Challenge (FGC)** e **FIRST Tech Challenge (FTC)**.
 
 Como programador na **FGC Team Brazil** e na equipe **Techmaker Challenge**, projeto soluções que vão desde o controle de baixo nível em C até arquiteturas complexas em Java e C++, sempre com foco em otimização e eficiência.
 
@@ -38,6 +42,15 @@ Repositório oficial com o "cérebro" do robô desenvolvido para a etapa Regiona
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+##📊 Minhas Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiegoHD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiegoHD&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
