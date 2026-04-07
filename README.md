@@ -45,7 +45,7 @@ Repositório oficial com o "cérebro" do robô desenvolvido para a etapa Regiona
 
 ---
 
-##📊 Minhas Estatísticas do GitHub
+## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDiegoHD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
