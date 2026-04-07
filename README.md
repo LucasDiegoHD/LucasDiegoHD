@@ -45,11 +45,13 @@ Repositório oficial com o "cérebro" do robô desenvolvido para a etapa Regiona
 
 ---
 
-## 🏆 Troféus do GitHub
+## 🐍 Minhas Contribuições
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasDiegoHD&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasDiegoHD/LucasDiegoHD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDiegoHD/LucasDiegoHD/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasDiegoHD/LucasDiegoHD/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
