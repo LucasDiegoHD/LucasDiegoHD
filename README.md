@@ -29,7 +29,7 @@ O **FGCLib Studio** é uma plataforma web completa que desenvolvi para revolucio
 * **Tecnologias:** HTML, JavaScript, C#.
 
 ### [Decode 23069 (FTC Control System)](https://github.com/LucasDiegoHD/Decode_23069) 🤖
-Repositório oficial com o "cérebro" do robô desenvolvido para a etapa Regional da FTC. Este projeto é a demonstração prática da minha arquitetura de código, aplicando controle em malha fechada, rotinas autônomas rápidas e toda a lógica competitiva otimizada que levamos para as arenas.
+Repositório oficial com o "cérebro" do robô desenvolvido para toda a temporada Decode da FTC. Este projeto é a demonstração prática da minha arquitetura de código, aplicando controle em malha fechada, rotinas autônomas rápidas e toda a lógica competitiva otimizada que levamos para as arenas.
 * **Tecnologias:** Java.
 
 ---
